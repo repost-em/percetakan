@@ -1,0 +1,321 @@
+body {
+    font-family: 'Montserratt';
+    background-image: url(../img/bg.JPG);
+
+}
+
+.navbar {
+    border-bottom: 2px solid #2c3e50;
+    background-color: #ffffff;
+}
+
+.navbar-toggler {
+    background-color: #FEDC56;
+
+}
+
+.nav-item {
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Montserrat';
+    margin-right: 20px;
+    color: #3498db;
+}
+
+.nabar-nav ul {
+    color: #3498db !important;
+}
+
+.nav-link:hover {
+    color: #FEDC56;
+}
+
+.form-inline {
+    font-family: 'Montserrat';
+    font-weight: 200;
+}
+
+.bd-example {
+    border-bottom: 5px solid #2c3e50;
+}
+
+/* icon CSS */
+.fa-phone-alt {
+    width: 50px !important;
+    height: 50px !important;
+    color: #FEDC56;
+    margin-right: 50px;
+
+}
+
+.fa-truck {
+    width: 60px !important;
+    height: 60px !important;
+    color: #FEDC56;
+    margin-right: 50px;
+
+}
+
+.fa-bullhorn {
+    width: 60px !important;
+    height: 60px !important;
+    color: #FEDC56;
+    margin-right: 50px;
+
+}
+
+.fa-home {
+    margin-right: 5px;
+}
+
+.fa-list {
+    margin-right: 5px;
+}
+
+.fa-envelope {
+    margin-right: 5px;
+}
+
+/* Akhir icon Css */
+
+.media-body {
+    font-family: 'Montserrat';
+    font-size: 15px;
+}
+
+.work-box {
+    margin-bottom: 3rem;
+}
+
+.page-header h1 {
+    font-family: 'Montserrat';
+    border-bottom: 5px solid #FEDC56;
+    border-bottom-style: dotted;
+}
+
+.text-about {
+    font-family: 'Montserrat';
+}
+
+.work-box {
+    transition: box-shadow .3s;
+}
+
+.work-box:hover {
+    box-shadow: 0 0 20px #000000;
+}
+
+/* Footer */
+.footer-deskripsi {
+    background-image: url(../img/footer.JPG);
+}
+
+.kartu-header h4 {
+    border-bottom: 1px solid #FEDC56;
+    font-family: 'Montserrat';
+    color: #FEDC56;
+    font-weight: bold;
+}
+
+.card-body {
+    font-family: "Montserrat";
+    position: relative;
+    right: 20px;
+    font-size: 25px;
+    color: #ffffff;
+
+}
+
+.alamat {
+    font-family: 'Montserrat';
+    font-weight: 700;
+}
+
+.address {
+    font-family: 'Montserrat';
+    font-weight: 700;
+}
+
+.form-control {
+    font-family: 'Montserrat';
+}
+
+.form-text {
+    font-family: 'Montserrat';
+    color: #000000;
+}
+
+.btn {
+    background-color: #FEDC56;
+    font-family: 'Montserrat';
+
+}
+
+.btn:hover {
+    background-color: #ecf0f1;
+}
+
+.fa-facebook {
+    width: 24px;
+    height: 24px;
+    color: #ffffff;
+
+}
+
+.text-muted small {
+    font-size: 15px;
+    color: black;
+    font-family: 'Montserrat';
+    text-align: center;
+
+}
+
+.copyright {
+    border-top-style: dotted;
+}
+
+
+.medsos a {
+    color: #ffffff;
+    font-size: 40px;
+    margin-right: 10px;
+}
+
+.medsos a:hover {
+    color: #FEDC56;
+}
+
+.list-item a {
+    color: #000000;
+    font-family: 'Montserrat';
+    text-decoration: none;
+}
+
+.list-item a:hover {
+    color: #FEDC56;
+}
+
+/* Akhir Footer */
+
+/* Single Page */
+
+.card {
+    font-family: 'Montserrat';
+    background-color: #ffffff;
+}
+
+
+
+.btn-link {
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.card-body {
+    color: #3498db;
+    font-size: 15px;
+    margin-left: 40px;
+
+}
+
+.list-unstyled a {
+    text-decoration: none;
+}
+
+.list-unstyled a:hover {
+    color: #FEDC56;
+}
+
+/* Akhir Single Page */
+
+/* Midel Content */
+.page-header h1 {
+    margin-left: 40px;
+    color: #3498db;
+    font-size: 25px;
+}
+
+.breadcrumb-item a {
+    text-decoration: none;
+    margin-left: 40px;
+    font-family: 'Montserrat';
+    color: #000000;
+}
+
+.breadcrumb-item a:hover {
+    color: #3498db;
+}
+
+.breadcrumb-item {
+    font-family: 'Montserrat';
+    color: #FEDC56;
+
+
+}
+
+
+.breadcrumb {
+    background-color: transparent;
+}
+
+.produk-item {
+    margin-left: 40px;
+    margin-bottom: 3rem;
+}
+
+.produk-img {
+    transition: box-shadow .3s;
+}
+
+.produk-img:hover {
+    box-shadow: 0 0 20px #000000;
+}
+
+/* aKhir mindle content */
+
+/* Produk */
+.img-produk {
+    margin-left: 40px;
+    transition: box-shadow .3s;
+}
+
+.img-produk:hover {
+    box-shadow: 0 0 10px #000000;
+}
+
+.card-produk {
+    padding-top: 50px;
+    margin-left: 50px;
+    font-family: 'Montserrat';
+}
+
+.harga {
+    font-family: 'Montserrat';
+    padding-top: 50px;
+    margin-left: 50px;
+}
+
+.hubungi-sekarang {
+    margin-left: 50px;
+    font-family: 'Montserrat';
+}
+
+/* aKhir Prduk */
+
+/* Maps */
+.map-container {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+}
+
+.map-container iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+/* akhir Maps */
